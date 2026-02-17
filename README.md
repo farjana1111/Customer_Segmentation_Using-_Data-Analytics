@@ -1,4 +1,4 @@
-Customer Segmentation Using Big Data Analytics
+Customer Segmentation Using Data Analytics
 ## Project Overview
 
 This project focuses on leveraging big data analytics techniques to segment customers based on purchasing behavior and transactional patterns. By analyzing large-scale customer datasets, meaningful groups were identified using data-driven clustering techniques.
